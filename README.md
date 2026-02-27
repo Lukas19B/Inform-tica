@@ -1,2 +1,2 @@
-# Inform-tica
+# Informatica
 Atividades realizadas na disciplina de informática de CST e logística
