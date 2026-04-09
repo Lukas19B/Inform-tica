@@ -7,3 +7,6 @@ Trabalho executado via Canva: Figuras
 # Planilha — EXCEL
 
 https://github.com/user-attachments/files/25616677/balancete_receita.xlsx
+
+# Planilha — EXCEL: Fornecedores 
+https://1drv.ms/x/c/f4ebcfda990c7194/IQAl9NzUnS0LQqaWTJfLMAaqASSCz-DoxcChSi1i4vzMqb8?e=5bbMKu
