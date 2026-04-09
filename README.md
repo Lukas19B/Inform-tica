@@ -10,3 +10,6 @@ https://github.com/user-attachments/files/25616677/balancete_receita.xlsx
 
 # Planilha — EXCEL: Fornecedores 
 https://1drv.ms/x/c/f4ebcfda990c7194/IQAl9NzUnS0LQqaWTJfLMAaqASSCz-DoxcChSi1i4vzMqb8?e=5bbMKu
+
+# Planilha — EXCEL: Despesa_função
+https://1drv.ms/x/c/f4ebcfda990c7194/IQCtLZUiyGQZSoq6izzobq4YAVNidMMnhcfdZQI_4qPNnHc?e=yRLWdo
