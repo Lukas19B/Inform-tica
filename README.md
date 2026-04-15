@@ -16,3 +16,8 @@ https://1drv.ms/x/c/f4ebcfda990c7194/IQCtLZUiyGQZSoq6izzobq4YAVNidMMnhcfdZQI_4qP
 
 # Planilha — EXCEL: Multas Pagas
 https://1drv.ms/x/c/f4ebcfda990c7194/IQB-cTvYF8A6SKzH9glaSsefAUpzLjsbB-KSBkWgd9hh03A?e=kRcY
+
+
+[balancete_receita.xlsx](./balancete_receita.xlsx)
+[despesa_funcao.xlsx](./despesa_funcao.xlsx)
+[multas_pagas.xlsx](./multas_pagas.xlsx)
