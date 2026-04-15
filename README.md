@@ -6,8 +6,8 @@ Trabalho executado via Canva: Figuras
 [Trabalho de Informática-  1 semestre- Logística Noturno_20260226_220502_0000.pdf](https://github.com/user-attachments/files/25590883/Trabalho.de.Informatica-.1.semestre-.Logistica.Noturno_20260226_220502_0000.pdf)
 # Planilha — EXCEL: Receita
 Planilha de controle de receitas por período (ano e mês), permitindo analisar valores arrecadados, comparar com o orçamento e acompanhar o acumulado ao longo do tempo.
-https://github.com/user-attachments/files/25616677/balancete_receita.xlsx
 [balancete_receita.xlsx](./balancete_receita.xlsx)
+
 # Planilha — EXCEL: Fornecedores 
 https://1drv.ms/x/c/f4ebcfda990c7194/IQAl9NzUnS0LQqaWTJfLMAaqASSCz-DoxcChSi1i4vzMqb8?e=5bbMKu
 
