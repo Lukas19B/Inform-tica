@@ -7,18 +7,14 @@ Trabalho executado via Canva: Figuras
 # Planilha — EXCEL: Receita
 Planilha de controle de receitas por período (ano e mês), permitindo analisar valores arrecadados, comparar com o orçamento e acompanhar o acumulado ao longo do tempo.
 
-[balancete_receita.xlsx](./balancete_receita.xlsx)
 
 # Planilha — EXCEL: Fornecedores 
-https://1drv.ms/x/c/f4ebcfda990c7194/IQAl9NzUnS0LQqaWTJfLMAaqASSCz-DoxcChSi1i4vzMqb8?e=5bbMKu
+
 
 # Planilha — EXCEL: Despesa_função
-https://1drv.ms/x/c/f4ebcfda990c7194/IQCtLZUiyGQZSoq6izzobq4YAVNidMMnhcfdZQI_4qPNnHc?e=yRLWdo
+
 
 # Planilha — EXCEL: Multas Pagas
-https://1drv.ms/x/c/f4ebcfda990c7194/IQB-cTvYF8A6SKzH9glaSsefAUpzLjsbB-KSBkWgd9hh03A?e=kRcY
 
 
-[balancete_receita.xlsx](./balancete_receita.xlsx)
-[despesa_funcao.xlsx](./despesa_funcao.xlsx)
-[multas_pagas.xlsx](./multas_pagas.xlsx)
+
