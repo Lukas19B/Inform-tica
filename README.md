@@ -12,9 +12,11 @@ Uso de SOMA(), cálculos de acumulado e comparações entre valores realizados e
 https://1drv.ms/x/c/f4ebcfda990c7194/IQDAI5JxISO-SJLouv5jETVxAWDUpXVBv0CXIwMD-8KhwvU
 
 Essa planilha contém o cadastro e controle de fornecedores. Nela estão organizadas informações como identificação do fornecedor, dados de contato e possíveis registros relacionados a compras ou serviços prestados.
-
 Uso de SOMA(), CONT.SE() e SE() para totalização, contagem e organização dos dados.
 # Planilha — EXCEL: Despesa_função
 
 
 # Planilha — EXCEL: Multas Pagas
+https://1drv.ms/x/c/f4ebcfda990c7194/IQB-cTvYF8A6SKzH9glaSsefAUpzLjsbB-KSBkWgd9hh03A?e=OL5BEh
+
+Base de dados com registros de multas por município, tipo e período, usada para análise de volume e identificação de padrões. Uso de SOMA(), CONT.SE() e tabelas dinâmicas para contagem e análise dos dados.
