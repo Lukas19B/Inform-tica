@@ -19,9 +19,12 @@ https://1drv.ms/x/c/f4ebcfda990c7194/IQCtLZUiyGQZSoq6izzobq4YAVNidMMnhcfdZQI_4qP
 
 Planilha de despesas organizadas por função, mostrando os valores empenhados, liquidados e pagos, possibilitando avaliar a execução dos gastos.
 Uso de SOMA(), subtrações e funções condicionais para comparar empenhado, liquidado e pago.
-# Planilha — EXCEL: Multas_Pagas
+# Planilha — EXCEL: Multas_pagas
 https://1drv.ms/x/c/f4ebcfda990c7194/IQB-cTvYF8A6SKzH9glaSsefAUpzLjsbB-KSBkWgd9hh03A?e=OL5BEh
 
 Base de dados com registros de multas por município, tipo e período, usada para análise de volume e identificação de padrões. Uso de SOMA(), CONT.SE() e tabelas dinâmicas para contagem e análise dos dados.
 
-# Planilha — EXCEL: Censo_2022Favelas
+# Planilha — EXCEL: Censo_2022favelas
+https://1drv.ms/x/c/f4ebcfda990c7194/IQA3ZTcHZVZpSJ_-BPTbn2W3Ae5MpEyW7OO9GwGVcN4ilX8?e=XU89sA
+
+Planilha com dados do censo sobre favelas, contendo informações organizadas por região, permitindo analisar distribuição, quantidade e características dessas áreas. Uso de funções como MAX(),para cálculo de média, identificação de valores máximos e mínimos e soma por critério.
