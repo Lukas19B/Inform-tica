@@ -8,6 +8,7 @@ Trabalho executado via Canva: Figuras
 Planilha de controle de receitas por período (ano e mês), permitindo analisar valores arrecadados, comparar com o orçamento e acompanhar o acumulado ao longo do tempo.
 
 [balancete_receita.xlsx](./balancete_receita.xlsx)
+
 Uso de SOMA(), cálculos de acumulado e comparações entre valores realizados e orçados.
 # Planilha — EXCEL: Fornecedores 
 
