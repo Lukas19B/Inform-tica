@@ -14,8 +14,10 @@ https://1drv.ms/x/c/f4ebcfda990c7194/IQDAI5JxISO-SJLouv5jETVxAWDUpXVBv0CXIwMD-8K
 Essa planilha contém o cadastro e controle de fornecedores. Nela estão organizadas informações como identificação do fornecedor, dados de contato e possíveis registros relacionados a compras ou serviços prestados.
 Uso de SOMA(), CONT.SE() e SE() para totalização, contagem e organização dos dados.
 # Planilha — EXCEL: Despesa_função
+https://1drv.ms/x/c/f4ebcfda990c7194/IQCtLZUiyGQZSoq6izzobq4YAVNidMMnhcfdZQI_4qPNnHc?e=TIe97Y
 
-
+Planilha de despesas organizadas por função, mostrando os valores empenhados, liquidados e pagos, possibilitando avaliar a execução dos gastos.
+Uso de SOMA(), subtrações e funções condicionais para comparar empenhado, liquidado e pago.
 # Planilha — EXCEL: Multas Pagas
 https://1drv.ms/x/c/f4ebcfda990c7194/IQB-cTvYF8A6SKzH9glaSsefAUpzLjsbB-KSBkWgd9hh03A?e=OL5BEh
 
