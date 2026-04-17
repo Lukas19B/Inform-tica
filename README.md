@@ -12,14 +12,14 @@ Planilha de controle de receitas por período (ano e mês), permitindo analisar 
 Uso de SOMA(), cálculos de acumulado e comparações entre valores realizados e orçados.
 # Planilha — EXCEL: Fornecedores 
 https://1drv.ms/x/c/f4ebcfda990c7194/IQDAI5JxISO-SJLouv5jETVxAWDUpXVBv0CXIwMD-8KhwvU
+<img width="836" height="344" alt="image" src="https://github.com/user-attachments/assets/1b7e19f8-67db-46b2-a109-625d05909041" />
 
 Essa planilha contém o cadastro e controle de fornecedores. Nela estão organizadas informações como identificação do fornecedor, dados de contato e possíveis registros relacionados a compras ou serviços prestados.
-Uso de SOMA(), CONT.SE() e SE() para totalização, contagem e organização dos dados.
 # Planilha — EXCEL: Despesa_função
 https://1drv.ms/x/c/f4ebcfda990c7194/IQCtLZUiyGQZSoq6izzobq4YAVNidMMnhcfdZQI_4qPNnHc?e=TIe97Y
+<img width="1611" height="499" alt="image" src="https://github.com/user-attachments/assets/59f25539-73ef-4d11-9529-3d35d37bec5b" />
 
 Planilha de despesas organizadas por função, mostrando os valores empenhados, liquidados e pagos, possibilitando avaliar a execução dos gastos.
-Uso de SOMA(), subtrações e funções condicionais para comparar empenhado, liquidado e pago.
 # Planilha — EXCEL: Multas_pagas
 https://1drv.ms/x/c/f4ebcfda990c7194/IQB-cTvYF8A6SKzH9glaSsefAUpzLjsbB-KSBkWgd9hh03A?e=OL5BEh
 
