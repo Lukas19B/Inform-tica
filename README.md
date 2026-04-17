@@ -28,3 +28,7 @@ Base de dados com registros de multas por município, tipo e período, usada par
 https://1drv.ms/x/c/f4ebcfda990c7194/IQA3ZTcHZVZpSJ_-BPTbn2W3Ae5MpEyW7OO9GwGVcN4ilX8?e=XU89sA
 
 Planilha com dados do censo sobre favelas, contendo informações organizadas por região, permitindo analisar distribuição, quantidade e características dessas áreas. Uso de funções como MAX(),para cálculo de média, identificação de valores máximos e mínimos e soma por critério.
+
+# Certificado de Conclusão 
+
+[Python_Fundamental_1-Certificado_digital_4027652.pdf](https://github.com/user-attachments/files/26805707/Python_Fundamental_1-Certificado_digital_4027652.pdf)
