@@ -35,3 +35,6 @@ Planilha com dados do censo sobre favelas, contendo informações organizadas po
 <img width="1100" height="737" alt="image" src="https://github.com/user-attachments/assets/1858ccab-bac8-46c5-82cc-da3e93b9d89f" />
 
 [Python_Fundamental_1-Certificado_digital_4027652.pdf](https://github.com/user-attachments/files/26805707/Python_Fundamental_1-Certificado_digital_4027652.pdf)
+
+# Atividade Sinistrox Power BI
+<img width="1312" height="736" alt="image" src="https://github.com/user-attachments/assets/1732f77b-ff86-4c48-989c-f70af0633fac" />
