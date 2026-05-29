@@ -40,6 +40,7 @@ Planilha com dados do censo sobre favelas, contendo informações organizadas po
 <img width="1312" height="736" alt="image" src="https://github.com/user-attachments/assets/1732f77b-ff86-4c48-989c-f70af0633fac" />
 
 # Atividade: População por Cor - Power BI
+Gráfico de pizza realizado na aula de informatica sobre o censo de 2022 da população por cor
 <img width="1290" height="700" alt="image" src="https://github.com/user-attachments/assets/f1726993-fe1c-4647-9cbf-f2202087d4e1" />
 
 # Atividade Desligamento SP
@@ -50,4 +51,5 @@ Planilha com dados do censo sobre favelas, contendo informações organizadas po
 
 
 # Atividade: Sorvete por Temperatura
+Gráfico realizado durante de informática sobre o consumo de cerveja e sorvetes
 <img width="1313" height="731" alt="image" src="https://github.com/user-attachments/assets/20b91af0-a5ea-4a26-b86b-1e940cd31871" />
