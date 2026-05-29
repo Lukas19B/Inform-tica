@@ -50,6 +50,4 @@ Planilha com dados do censo sobre favelas, contendo informações organizadas po
 
 
 # Atividade: Sorvete por Temperatura
-<img width="1294" height="732" alt="image" src="https://github.com/user-attachments/assets/78a3bdb8-1bbf-4778-b19a-e80e595b160c" />
-
-
+<img width="1313" height="731" alt="image" src="https://github.com/user-attachments/assets/20b91af0-a5ea-4a26-b86b-1e940cd31871" />
