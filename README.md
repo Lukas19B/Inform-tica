@@ -38,3 +38,5 @@ Planilha com dados do censo sobre favelas, contendo informações organizadas po
 
 # Atividade Sinistrox Power BI
 <img width="1312" height="736" alt="image" src="https://github.com/user-attachments/assets/1732f77b-ff86-4c48-989c-f70af0633fac" />
+# Atividade: População por Cor - Power BI
+<img width="1290" height="700" alt="image" src="https://github.com/user-attachments/assets/f1726993-fe1c-4647-9cbf-f2202087d4e1" />
