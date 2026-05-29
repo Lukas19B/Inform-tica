@@ -41,3 +41,5 @@ Planilha com dados do censo sobre favelas, contendo informações organizadas po
 
 # Atividade: População por Cor - Power BI
 <img width="1290" height="700" alt="image" src="https://github.com/user-attachments/assets/f1726993-fe1c-4647-9cbf-f2202087d4e1" />
+
+Atividade Desligamento SP
