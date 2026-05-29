@@ -45,6 +45,10 @@ Planilha com dados do censo sobre favelas, contendo informações organizadas po
 # Atividade Desligamento SP
 <img width="1336" height="755" alt="image" src="https://github.com/user-attachments/assets/d90acba6-39b0-483e-82a4-10e69581ae39" />
 
+# Atividade Winequality_red 
+<img width="1741" height="795" alt="image" src="https://github.com/user-attachments/assets/8b6dbc62-7520-4ee6-a304-97bd76fcac62" />
+
+
 # Atividade: Sorvete por Temperatura
 <img width="1294" height="732" alt="image" src="https://github.com/user-attachments/assets/78a3bdb8-1bbf-4778-b19a-e80e595b160c" />
 
