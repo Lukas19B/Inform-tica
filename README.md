@@ -57,6 +57,10 @@ Gráfico realizado durante de informática sobre o consumo de cerveja e sorvetes
 # Atividade: Ice Cream Sales and Temperature
 <img width="1550" height="904" alt="image" src="https://github.com/user-attachments/assets/310829a9-64b6-4ab1-ad5b-a6582c9ace16" />
 
+# Atividade Google Colab - Regressão Linear
+<img width="836" height="672" alt="image" src="https://github.com/user-attachments/assets/a93da228-d1c0-455b-bf7a-9d07fb0207f1" />
+
+
 # Curso: Introdução à Análise de Dados - MIcrosoft POwer BI
 <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/3ae5f63a-19e8-42ed-b56f-a9f494961606" />
 
