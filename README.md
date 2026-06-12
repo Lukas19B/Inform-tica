@@ -53,3 +53,7 @@ Gráfico de pizza realizado na aula de informatica sobre o censo de 2022 da popu
 # Atividade: Sorvete por Temperatura
 Gráfico realizado durante de informática sobre o consumo de cerveja e sorvetes
 <img width="1313" height="731" alt="image" src="https://github.com/user-attachments/assets/20b91af0-a5ea-4a26-b86b-1e940cd31871" />
+
+# Atividade: Ice Cream Sales and Temperature
+<img width="1550" height="904" alt="image" src="https://github.com/user-attachments/assets/310829a9-64b6-4ab1-ad5b-a6582c9ace16" />
+
