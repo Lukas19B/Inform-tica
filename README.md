@@ -57,3 +57,9 @@ Gráfico realizado durante de informática sobre o consumo de cerveja e sorvetes
 # Atividade: Ice Cream Sales and Temperature
 <img width="1550" height="904" alt="image" src="https://github.com/user-attachments/assets/310829a9-64b6-4ab1-ad5b-a6582c9ace16" />
 
+# Curso: Introdução à Análise de Dados - MIcrosoft POwer BI
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/3ae5f63a-19e8-42ed-b56f-a9f494961606" />
+
+# Curso: Análise de Dados - Microsoft Power BI Avançado
+<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/abc21601-9aea-42f5-bab1-a205c56fc305" />
+
